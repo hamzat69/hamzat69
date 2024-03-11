@@ -1,6 +1,6 @@
 - 👋 I’m @hamzat69
-- 👀 I’m interested in solving difficult & complex problems through most efficient and logical solutions
-- 🌱 I’m currently mastering Data Science w/ Python using Pandas, NumPy, Matplotlib & Seaborn
+- 👀 I’m interested in solving difficult & complex problems through efficient and logical solutions
+- 🌱 I’m mastering Data Science w/ Python using Pandas, NumPy, Matplotlib & Seaborn
 - 📫 You may reach me at hsshuhratov@gmail.com
 
 <!---
